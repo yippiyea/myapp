@@ -1,1 +1,1 @@
-console.log(' prompt from app1.js ');
+console.log(' prompt from app1.js');
