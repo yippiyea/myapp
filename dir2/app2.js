@@ -1,0 +1,1 @@
+console.log('prompt from app2.js');
